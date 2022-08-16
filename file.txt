@@ -1,3 +1,4 @@
 My first line in project
 Paris is the capital of France
 attemptc
+attempt 2 not staged
